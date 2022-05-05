@@ -1,6 +1,6 @@
-### Simple Python port scanner
+# Simple Python port scanner
 
-Simple multi thread Python script for scanning port
+Simple multi thread Python script for scanning port.
 
 
 **Usage:** 
