@@ -7,4 +7,5 @@ Simple multi thread Python script for scanning port.
 ```
 py port_scan.py <ip address>
 ```
-![image](https://user-images.githubusercontent.com/101538840/166859711-1f426e40-89a3-4bd3-a1a5-2ce38633998b.png)
+![image](https://user-images.githubusercontent.com/101538840/166883150-4eac642e-16d4-4371-8f13-0e3fe3e75424.png)
+
