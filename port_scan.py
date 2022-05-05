@@ -49,5 +49,4 @@ if __name__ == "__main__":
     print(f"\nThe scan took {round(cost_time, 2)} seconds.")
     print(f'Total {len(opened_port)} opened ports in [1, 9999].\n')
     if opened_port:
-        print(opened_port)
-        print()
+        print(opened_port + "\n")
