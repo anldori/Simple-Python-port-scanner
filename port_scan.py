@@ -21,6 +21,7 @@ def print_header(target):
     print('\n' + '-' * 50)
     print("Target:", target)
     print('-' * 50 + '\n')
+    print('This script will work perfectly on Windows. Some bugs will be fixed on Linux.\n')
 
 
 if len(sys.argv) == 2:
@@ -30,7 +31,7 @@ if len(sys.argv) == 2:
         print('\nPlease type your ip target correctly.\n')
         sys.exit(0)
 else:
-    print("Invalid systax. Use python3 port_scan.py <ip address>")
+    print("Invalid systax. Use py port_scan.py <ip address>")
     sys.exit(0)
 
 # print header
